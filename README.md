@@ -5,7 +5,7 @@ Regards to [WSABuilds](https://github.com/MustardChef/WSABuilds).
 
 # 2025s3安装问题
 
-原因见[问题讨论](https://github.com/MustardChef/WSABuilds/issues/593)，请按照[0-1_系统更新问题.md]https://github.com/ngyyuusora/wsa_intergrated_content/blob/main/docs/0-1_%E7%B3%BB%E7%BB%9F%E6%9B%B4%E6%96%B0%E9%97%AE%E9%A2%98.md操作。
+原因见[问题讨论](https://github.com/MustardChef/WSABuilds/issues/593)，请按照[0-1_系统更新问题.md](https://github.com/ngyyuusora/wsa_intergrated_content/blob/main/docs/0-1_%E7%B3%BB%E7%BB%9F%E6%9B%B4%E6%96%B0%E9%97%AE%E9%A2%98.md)操作。
 
 # 目录
 ## apks
